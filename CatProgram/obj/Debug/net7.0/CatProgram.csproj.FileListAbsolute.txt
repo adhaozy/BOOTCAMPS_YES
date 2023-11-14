@@ -1,0 +1,15 @@
+D:\Bootcamp_Ozy\CatProgram\bin\Debug\net7.0\CatProgram.exe
+D:\Bootcamp_Ozy\CatProgram\bin\Debug\net7.0\CatProgram.deps.json
+D:\Bootcamp_Ozy\CatProgram\bin\Debug\net7.0\CatProgram.runtimeconfig.json
+D:\Bootcamp_Ozy\CatProgram\bin\Debug\net7.0\CatProgram.dll
+D:\Bootcamp_Ozy\CatProgram\bin\Debug\net7.0\CatProgram.pdb
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.csproj.AssemblyReference.cache
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.AssemblyInfoInputs.cache
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.AssemblyInfo.cs
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.csproj.CoreCompileInputs.cache
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.dll
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\refint\CatProgram.dll
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.pdb
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\CatProgram.genruntimeconfig.cache
+D:\Bootcamp_Ozy\CatProgram\obj\Debug\net7.0\ref\CatProgram.dll
